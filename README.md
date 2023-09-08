@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently working on learning how to navigiate GitHub so I am a little less terrible towork with.
 <!--
 **jeffreymichaelmitchell/jeffreymichaelmitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
